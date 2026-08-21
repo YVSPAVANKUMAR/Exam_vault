@@ -173,7 +173,7 @@ export const resources: Resource[] = [
   },
   {
     id: 13,
-    title: "SSC MTS Previous Year Model Papers ",
+    title: "SSC MTS Previous Year Model Paper-1",
     exam: "SSC MTS",
     subject: "General Awareness",
     type: "pdf",
@@ -287,5 +287,426 @@ export const resources: Resource[] = [
     tags: ["history", "dynasties", "founders", "india", "ssc gd"],
     featured: true,
     addedAt: "2026-08-19",
+  },
+    {
+    id: 22,
+    title: "SSC MTS Previous Year Model Paper-2",
+    exam: "SSC MTS",
+    subject: "General Awareness",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC MTS with detailed solutions.",
+    url: "https://drive.google.com/file/d/1W4omQegKhP8waHElXc85agmxgCzp8fhN/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc mts", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+    {
+    id: 23,
+    title: "SSC MTS Previous Year Model Paper-3",
+    exam: "SSC MTS",
+    subject: "General Awareness",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC MTS with detailed solutions.",
+    url: "https://drive.google.com/file/d/1bwYRiHevWvigPwvqWQ4vSXGXBJvfeCIK/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc mts", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+    {
+    id: 24,
+    title: "SSC MTS Previous Year Model Paper-4",
+    exam: "SSC MTS",
+    subject: "General Awareness",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC MTS with detailed solutions.",
+    url: "https://drive.google.com/file/d/1CMnowDMEWDiaYx1LIaCEajmmNezRXdbP/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc mts", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+    {
+    id: 25,
+    title: "SSC MTS Previous Year Model Paper-5",
+    exam: "SSC MTS",
+    subject: "General Awareness",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC MTS with detailed solutions.",
+    url: "https://drive.google.com/file/d/1V_-olWtGStSbSJpSt9aKhZ-38KE-_twc/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc mts", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+      {
+    id: 26,
+    title: "Computer Awareness - Complete Notes PDF",
+    exam: "SSC CGL",
+    subject: "Computer Awareness",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1gS1Z7xHrwBO2wJqZOwkVoRkNwuwM-Wkg/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+      {
+    id: 27,
+    title: "English - Active and Passive Voice PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1-6fZQfdNvQoony-wzR9ve0pJOCslx_pJ/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+      {
+    id: 28,
+    title: "English - Adjectives PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1ikdiX20Po-TRjNmExt0DzSqL6_y0EkkF/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+      {
+    id: 29,
+    title: "English - Adverbs PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/11hhqnMPF-yeWO_WgeG8eVfZI7Ejp2j4q/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+      {
+    id: 30,
+    title: "English - Antonyms PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1xdEuzRiG36B5FEX_SMUPCvgy826-0KcC/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+      {
+    id: 31,
+    title: "English - Cloze Test PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1UopGwShUNyObER7LGU4hwYEoZmS6Z_xG/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+
+      {
+    id: 32,
+    title: "English - Common Errors PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1cb-JMqUeW3DUEh3_E4__8qiKJ3FNHs_e/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+
+      {
+    id: 33,
+    title: "English - Direct and Indirect Speech PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1dVCUrnxLJhwDq1mlZJ3C7arvJI0IBmji/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+
+
+      {
+    id: 34,
+    title: "English - Fill in the Blanks PYQ's  PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1hMvmP6K7HkrwMY7tQSnH2DVtTQ3QPtns/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+
+      {
+    id: 35,
+    title: "English - Idioms and Phrases PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1Nz5axStFYI4iWUsphTrO_Z5UN02tZxtM/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+
+      {
+    id: 36,
+    title: "English - Nouns PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1OFZCh0jZzn2knF6D0ckxF2qWrhEuW5xq/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+      {
+    id: 37,
+    title: "English - One Word Substitution PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1crv26pUfrgb5w8zlZadgfNNjiqXOmXUS/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+      {
+    id: 38,
+    title: "English - Prepositions PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1rB83OQKZKl51SxY280s2O1GPIPMIcuM8/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+      {
+    id: 39,
+    title: "English - Pronouns PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1EgPuBgvcYNsE5v2KwBLX_BDwdrM2jger/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+      {
+    id: 40,
+    title: "English - Reading Comprehension PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1tHkOvb0Ce_cGolFXRjwmnUPDKScydLMP/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+      {
+    id: 41,
+    title: "English - Sentence Correction PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/10sxcAI-3Wed4O5qTlhPxLxtE1CHA1KeT/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+      {
+    id: 42,
+    title: "English - Spelling PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1xi3oEcQODpwVBZgAfCkpFszy0UiFmruC/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+      {
+    id: 43,
+    title: "English - Synonyms PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/17k0DX4PPXq__qr7o2jGtMKxPpxi80GlV/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+
+      {
+    id: 44,
+    title: "English - Verbs PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1gS1Z7xHrwBO2wJqZOwkVoRkNwuwM-Wkg/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+
+
+
+
+      {
+    id: 45,
+    title: "English - Vocabulary PYQ's PDF",
+    exam: "SSC CGL",
+    subject: "English",
+    type: "pdf",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://drive.google.com/file/d/1EjfKX32SDUlAE3DjP8hylGUfEQPiVUjF/view?usp=drive_link",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
   },
 ];
