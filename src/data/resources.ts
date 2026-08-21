@@ -28,19 +28,19 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-01",
   },
-//   {
-//     id: 2,
-//     title: "Indian Polity Complete Notes PDF",
-//     exam: "SSC CGL",
-//     subject: "Indian Polity",
-//     type: "pdf",
-//     description: "Concise, exam-ready Indian Polity notes covering all topics — Parliament, Judiciary, Elections, and Constitutional Articles.",
-//     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
-//     thumbnail: "",
-//     tags: ["polity", "notes", "pdf", "ssc"],
-//     featured: false,
-//     addedAt: "2026-08-02",
-//   },
+  //   {
+  //     id: 2,
+  //     title: "Indian Polity Complete Notes PDF",
+  //     exam: "SSC CGL",
+  //     subject: "Indian Polity",
+  //     type: "pdf",
+  //     description: "Concise, exam-ready Indian Polity notes covering all topics — Parliament, Judiciary, Elections, and Constitutional Articles.",
+  //     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
+  //     thumbnail: "",
+  //     tags: ["polity", "notes", "pdf", "ssc"],
+  //     featured: false,
+  //     addedAt: "2026-08-02",
+  //   },
   {
     id: 3,
     title: "Physics - Electricity complete lecture series-2",
@@ -67,19 +67,19 @@ export const resources: Resource[] = [
     featured: false,
     addedAt: "2026-08-04",
   },
-//   {
-//     id: 5,
-//     title: "General Science Notes — Physics & Chemistry",
-//     exam: "RRB NTPC",
-//     subject: "General Science",
-//     type: "pdf",
-//     description: "High-yield physics and chemistry notes for RRB NTPC with previous-year question analysis and quick revision tables.",
-//     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
-//     thumbnail: "",
-//     tags: ["science", "physics", "chemistry", "rrb", "ntpc"],
-//     featured: true,
-//     addedAt: "2026-08-05",
-//   },
+  //   {
+  //     id: 5,
+  //     title: "General Science Notes — Physics & Chemistry",
+  //     exam: "RRB NTPC",
+  //     subject: "General Science",
+  //     type: "pdf",
+  //     description: "High-yield physics and chemistry notes for RRB NTPC with previous-year question analysis and quick revision tables.",
+  //     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
+  //     thumbnail: "",
+  //     tags: ["science", "physics", "chemistry", "rrb", "ntpc"],
+  //     featured: true,
+  //     addedAt: "2026-08-05",
+  //   },
   {
     id: 6,
     title: "Physics - Mechanics complete lecture series-1",
@@ -119,19 +119,19 @@ export const resources: Resource[] = [
     featured: false,
     addedAt: "2026-08-08",
   },
-//   {
-//     id: 9,
-//     title: "Current Affairs — August 2026 Compilation",
-//     exam: "SSC CGL",
-//     subject: "Current Affairs",
-//     type: "pdf",
-//     description: "Monthly current affairs compilation for August 2026 covering national & international events, awards, sports, and economy.",
-//     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
-//     thumbnail: "",
-//     tags: ["current affairs", "august", "2026", "monthly"],
-//     featured: true,
-//     addedAt: "2026-08-10",
-//   },
+  //   {
+  //     id: 9,
+  //     title: "Current Affairs — August 2026 Compilation",
+  //     exam: "SSC CGL",
+  //     subject: "Current Affairs",
+  //     type: "pdf",
+  //     description: "Monthly current affairs compilation for August 2026 covering national & international events, awards, sports, and economy.",
+  //     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
+  //     thumbnail: "",
+  //     tags: ["current affairs", "august", "2026", "monthly"],
+  //     featured: true,
+  //     addedAt: "2026-08-10",
+  //   },
   {
     id: 10,
     title: "Complete Ancient Andhra History",
@@ -145,19 +145,19 @@ export const resources: Resource[] = [
     featured: false,
     addedAt: "2026-08-11",
   },
-//   {
-//     id: 11,
-//     title: "Computer Awareness — Fundamentals for Railway Exams",
-//     exam: "RRB ALP",
-//     subject: "Computer Awareness",
-//     type: "pdf",
-//     description: "Complete computer awareness notes covering hardware, software, networking, MS Office, and internet basics.",
-//     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
-//     thumbnail: "",
-//     tags: ["computer", "networking", "ms office", "rrb", "alp"],
-//     featured: false,
-//     addedAt: "2026-08-12",
-//   },
+  //   {
+  //     id: 11,
+  //     title: "Computer Awareness — Fundamentals for Railway Exams",
+  //     exam: "RRB ALP",
+  //     subject: "Computer Awareness",
+  //     type: "pdf",
+  //     description: "Complete computer awareness notes covering hardware, software, networking, MS Office, and internet basics.",
+  //     url: "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms/view",
+  //     thumbnail: "",
+  //     tags: ["computer", "networking", "ms office", "rrb", "alp"],
+  //     featured: false,
+  //     addedAt: "2026-08-12",
+  //   },
   {
     id: 12,
     title: "Chemistry - Acids and Bases complete lecture series",
@@ -197,32 +197,32 @@ export const resources: Resource[] = [
     featured: false,
     addedAt: "2026-08-15",
   },
-//   {
-//     id: 15,
-//     title: "RRB NTPC Official Syllabus & Exam Pattern",
-//     exam: "RRB NTPC",
-//     subject: "General Awareness",
-//     type: "link",
-//     description: "Official RRB NTPC syllabus, exam pattern, selection process, and preparation strategy guide.",
-//     url: "https://www.rrbcdg.gov.in",
-//     thumbnail: "",
-//     tags: ["syllabus", "rrb ntpc", "exam pattern", "official"],
-//     featured: false,
-//     addedAt: "2026-08-16",
-//   },
-//   {
-//     id: 16,
-//     title: "Physics — Motion, Force & Laws of Motion",
-//     exam: "RRB ALP",
-//     subject: "Physics",
-//     type: "youtube",
-//     description: "Essential physics lecture on Newton's laws, motion equations, friction, and work-energy theorem for RRB ALP.",
-//     url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-//     thumbnail: "",
-//     tags: ["physics", "motion", "newton", "rrb alp"],
-//     featured: false,
-//     addedAt: "2026-08-17",
-//   },
+    {
+      id: 15,
+      title: "Geography — Indian River System Complete Lecture",
+      exam: "SSC CGL",
+      subject: "Geography",
+      type: "youtube",
+      description: "Comprehensive lecture on the Indian river system for SSC CGL preparation.",
+      url: "https://youtu.be/i4Wf9dJ98lg?si=UXY_wNP5PbPucHoS",
+      thumbnail: "",
+      tags: ["geography", "rivers", "india", "ssc cgl"],
+      featured: false,
+      addedAt: "2026-08-16",
+    },
+    {
+      id: 16,
+      title: "Geography — Soils of India Complete Lecture",
+      exam: "SSC CGL",
+      subject: "Geography",
+      type: "youtube",
+      description: "Comprehensive lecture on the types, formation, and characteristics of soils in India for SSC CGL preparation.",
+      url: "https://youtu.be/QOGtEV9Tdxg?si=Jiel7sQsf0hn9yob",
+      thumbnail: "",
+      tags: ["geography", "soils", "india", "ssc cgl"],
+      featured: false,
+      addedAt: "2026-08-17",
+    },
   {
     id: 17,
     title: "Geography — Dams In India PYQ's PDF",
@@ -249,7 +249,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-19",
   },
-    {
+  {
     id: 19,
     title: "Static GK - Art's and culture PYQ's PDF",
     exam: "SSC GD",
@@ -262,7 +262,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-19",
   },
-    {
+  {
     id: 20,
     title: "Indian Polity - Articles Short Notes PDF",
     exam: "SSC GD",
@@ -288,7 +288,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-19",
   },
-    {
+  {
     id: 22,
     title: "SSC MTS Previous Year Model Paper-2",
     exam: "SSC MTS",
@@ -301,7 +301,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-    {
+  {
     id: 23,
     title: "SSC MTS Previous Year Model Paper-3",
     exam: "SSC MTS",
@@ -314,7 +314,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-    {
+  {
     id: 24,
     title: "SSC MTS Previous Year Model Paper-4",
     exam: "SSC MTS",
@@ -327,7 +327,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-    {
+  {
     id: 25,
     title: "SSC MTS Previous Year Model Paper-5",
     exam: "SSC MTS",
@@ -340,7 +340,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-      {
+  {
     id: 26,
     title: "Computer Awareness - Complete Notes PDF",
     exam: "SSC CGL",
@@ -355,8 +355,8 @@ export const resources: Resource[] = [
   },
 
 
-
-      {
+  //---------------------english PYQ's Start---------------------
+  {
     id: 27,
     title: "English - Active and Passive Voice PYQ's PDF",
     exam: "SSC CGL",
@@ -369,12 +369,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-      {
+  {
     id: 28,
     title: "English - Adjectives PYQ's PDF",
     exam: "SSC CGL",
@@ -387,13 +382,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-      {
+  {
     id: 29,
     title: "English - Adverbs PYQ's PDF",
     exam: "SSC CGL",
@@ -406,13 +395,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-      {
+  {
     id: 30,
     title: "English - Antonyms PYQ's PDF",
     exam: "SSC CGL",
@@ -425,13 +408,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-      {
+  {
     id: 31,
     title: "English - Cloze Test PYQ's PDF",
     exam: "SSC CGL",
@@ -444,14 +421,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-
-      {
+  {
     id: 32,
     title: "English - Common Errors PYQ's PDF",
     exam: "SSC CGL",
@@ -464,14 +434,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-
-      {
+  {
     id: 33,
     title: "English - Direct and Indirect Speech PYQ's PDF",
     exam: "SSC CGL",
@@ -484,15 +447,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-
-
-      {
+  {
     id: 34,
     title: "English - Fill in the Blanks PYQ's  PDF",
     exam: "SSC CGL",
@@ -505,14 +460,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-
-      {
+  {
     id: 35,
     title: "English - Idioms and Phrases PYQ's PDF",
     exam: "SSC CGL",
@@ -525,14 +473,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-
-      {
+  {
     id: 36,
     title: "English - Nouns PYQ's PDF",
     exam: "SSC CGL",
@@ -545,13 +486,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-      {
+  {
     id: 37,
     title: "English - One Word Substitution PYQ's PDF",
     exam: "SSC CGL",
@@ -564,12 +499,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-      {
+  {
     id: 38,
     title: "English - Prepositions PYQ's PDF",
     exam: "SSC CGL",
@@ -582,12 +512,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-      {
+  {
     id: 39,
     title: "English - Pronouns PYQ's PDF",
     exam: "SSC CGL",
@@ -600,13 +525,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-      {
+  {
     id: 40,
     title: "English - Reading Comprehension PYQ's PDF",
     exam: "SSC CGL",
@@ -619,12 +538,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-      {
+  {
     id: 41,
     title: "English - Sentence Correction PYQ's PDF",
     exam: "SSC CGL",
@@ -637,12 +551,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-      {
+  {
     id: 42,
     title: "English - Spelling PYQ's PDF",
     exam: "SSC CGL",
@@ -655,11 +564,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-      {
+  {
     id: 43,
     title: "English - Synonyms PYQ's PDF",
     exam: "SSC CGL",
@@ -672,13 +577,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-
-      {
+  {
     id: 44,
     title: "English - Verbs PYQ's PDF",
     exam: "SSC CGL",
@@ -691,12 +590,7 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
-
-
-
-
-
-      {
+  {
     id: 45,
     title: "English - Vocabulary PYQ's PDF",
     exam: "SSC CGL",
@@ -709,4 +603,5 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-14",
   },
+//---------------------english PYQ's END---------------------
 ];
