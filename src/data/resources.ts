@@ -631,6 +631,7 @@ export const resources: Resource[] = [
 
 //---------------------Maths PYQ's End---------------------
 
+//---------------------Reasoning PYQ's Start---------------------
 
   {
     id: 49,
@@ -644,6 +645,8 @@ export const resources: Resource[] = [
     tags: ["previous year", "pyq", "ssc cgl", "practice"],
     featured: true,
     addedAt: "2026-08-14",
-  }
+  },
+
+  //---------------------Reasoning PYQ's End---------------------
 
 ];
