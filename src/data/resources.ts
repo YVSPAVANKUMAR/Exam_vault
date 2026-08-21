@@ -172,13 +172,13 @@ export const resources: Resource[] = [
    {
     id: 17,
     title: "Indian Polity - Articles Short Notes PDF",
-    exam: "SSC GD",
+    exam: "SSC CGL",
     subject: "Indian Polity",
     type: "pdf",
-    description: "Comprehensive notes on constitutional articles for SSC GD preparation.",
+    description: "Comprehensive notes on constitutional articles for SSC CGL preparation.",
     url: "https://drive.google.com/file/d/1Xs8bGZ2-T5_1jAZg2gchkvQRVJ5K5mjz/view?usp=drive_link",
     thumbnail: "",
-    tags: ["indian polity", "articles", "ssc gd", "notes"],
+    tags: ["indian polity", "articles", "ssc cgl", "notes"],
     featured: true,
     addedAt: "2026-08-19",
   },
@@ -296,7 +296,7 @@ export const resources: Resource[] = [
     addedAt: "2026-08-14",
   },
   {
-    id: 18,
+    id: 48,
     title: "SSC MTS Previous Year Model Paper-2",
     exam: "SSC MTS",
     subject: "General Awareness",
@@ -612,4 +612,38 @@ export const resources: Resource[] = [
     addedAt: "2026-08-14",
   },
   //---------------------english PYQ's END---------------------
+
+  //---------------------Maths PYQ's Start---------------------
+  
+  {
+    id: 48,
+    title: "Maths - Number systems and Divisibility Rules PYQ's",
+    exam: "SSC CGL",
+    subject: "Mathematics",
+    type: "youtube",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://www.youtube.com/live/Ptw3YhRr4qo?si=q7_kLeSDiQxMYXw4",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  },
+
+//---------------------Maths PYQ's End---------------------
+
+
+  {
+    id: 49,
+    title: "Reasoning - coding and decoding PYQ's",
+    exam: "SSC CGL",
+    subject: "Reasoning",
+    type: "youtube",
+    description: "Compiled previous-year question papers for SSC CGL with detailed solutions.",
+    url: "https://youtu.be/ZZAqcuE629U?si=KnrqYWq6fPlj9Lou",
+    thumbnail: "",
+    tags: ["previous year", "pyq", "ssc cgl", "practice"],
+    featured: true,
+    addedAt: "2026-08-14",
+  }
+
 ];
