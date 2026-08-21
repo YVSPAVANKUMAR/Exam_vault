@@ -262,7 +262,7 @@ export const resources: Resource[] = [
     tags: ["geography", "physical features", "india", "ssc cgl"],
     featured: false,
     addedAt: "2026-08-19",
-  }
+  },
 //-------------------------Geography Resources End-------------------------
 
 //-------------------------Static GK Resources Start-------------------------
