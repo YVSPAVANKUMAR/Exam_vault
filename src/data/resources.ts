@@ -182,6 +182,19 @@ export const resources: Resource[] = [
     featured: true,
     addedAt: "2026-08-19",
   },
+  {
+    id: 18,
+    title: "Indian Polity - Articles Complete Lecture",
+    exam: "SSC CGL",
+    subject: "Indian Polity",
+    type: "youtube",
+    description: "Comprehensive lecture on the constitutional articles for SSC CGL preparation.",
+    url: "https://www.youtube.com/live/lOVMM45XUKU?si=mwhkmepjOhlK72QJ",
+    thumbnail: "",
+    tags: ["indian polity", "articles", "india", "ssc cgl"],
+    featured: false,
+    addedAt: "2026-08-20",
+  },
 //-------------------------Indian Polity Resources End-------------------------
 
 //-------------------------Geography Resources Start-------------------------
@@ -224,6 +237,32 @@ export const resources: Resource[] = [
     featured: false,
     addedAt: "2026-08-18",
   },
+  {
+    id: 15,
+    title: "Geography — Indian Rivers and Their Tributaries Complete Lecture",
+    exam: "SSC CGL",
+    subject: "Geography",
+    type: "youtube",
+    description: "Comprehensive lecture on the Indian rivers and their tributaries for SSC CGL preparation.",
+    url: "https://youtu.be/NxDYJdjM87o?si=KgpAwLZKlrNvqHCY",
+    thumbnail: "",
+    tags: ["geography", "rivers", "india", "ssc cgl"],
+    featured: false,
+    addedAt: "2026-08-19",
+  },
+  {
+    id: 16,
+    title: "Geography — Physical Features of India Complete Lecture",
+    exam: "SSC CGL",
+    subject: "Geography",
+    type: "youtube",
+    description: "Comprehensive lecture on the physical features of India for SSC CGL preparation.",
+    url: "https://youtu.be/14YqdZBEydg?si=7W37EPuL4n2cqVW-",
+    thumbnail: "",
+    tags: ["geography", "physical features", "india", "ssc cgl"],
+    featured: false,
+    addedAt: "2026-08-19",
+  }
 //-------------------------Geography Resources End-------------------------
 
 //-------------------------Static GK Resources Start-------------------------
